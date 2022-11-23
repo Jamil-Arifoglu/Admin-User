@@ -1,0 +1,15 @@
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\bin\Debug\net6.0\Taskadmin.exe
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\bin\Debug\net6.0\Taskadmin.deps.json
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\bin\Debug\net6.0\Taskadmin.runtimeconfig.json
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\bin\Debug\net6.0\Taskadmin.dll
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\bin\Debug\net6.0\Taskadmin.pdb
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\obj\Debug\net6.0\Taskadmin.csproj.AssemblyReference.cache
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\obj\Debug\net6.0\Taskadmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\obj\Debug\net6.0\Taskadmin.AssemblyInfoInputs.cache
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\obj\Debug\net6.0\Taskadmin.AssemblyInfo.cs
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\obj\Debug\net6.0\Taskadmin.csproj.CoreCompileInputs.cache
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\obj\Debug\net6.0\Taskadmin.dll
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\obj\Debug\net6.0\refint\Taskadmin.dll
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\obj\Debug\net6.0\Taskadmin.pdb
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\obj\Debug\net6.0\Taskadmin.genruntimeconfig.cache
+C:\Users\Nermin\source\repos\Taskadmin\Taskadmin\obj\Debug\net6.0\ref\Taskadmin.dll
